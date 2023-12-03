@@ -19,6 +19,6 @@
     "tailwindcss": "^3.3.3"
   },
   "devDependencies": {
-    "vite-plugin-sass-glob-import": "^2.0.0"
+    "vite-plugin-sass-glob-import": "^3.0.2"
   }
 }
